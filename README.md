@@ -3,10 +3,9 @@
 #### Who am I?
 Hi, I’m Himanshu. I love programming in Python. Personally, I am passionate about programming and learning new things. My favorite way to work is late at night with headphones. 😉
 
-|||
-|-|-|
-|![](https://github-readme-stats.vercel.app/api?username=myselfHimanshu&show_icons=true&title_color=fff&icon_color=1aff4b&text_color=ffffff&bg_color=000000)|![]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfHimanshu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-)|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=myselfHimanshu&show_icons=true&title_color=fff&icon_color=1aff4b&text_color=ffffff&bg_color=000000"/>
+</p>
 
 #### What I do?
 Machine Learning fascinates me a lot; Self driving car, YOLO, AlphaGo, Watson and many more. <br>
