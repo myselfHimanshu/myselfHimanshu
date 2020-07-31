@@ -8,7 +8,7 @@ Hi, I’m Himanshu. I love programming in Python. Personally, I am passionate ab
 </p>
 
 #### What I do?
-Machine Learning fascinates me a lot; Self driving car, YOLO, AlphaGo, Watson and many more.
+Machine Learning fascinates me a lot; Self driving car, YOLO, AlphaGo, Watson and many more. <br>
 My areas of interest include <b>Natural Language Processing</b> and <b>Computer Vision</b>.
 
 - 🔭 I’m currently working on building SOTA Computer Vision models from scratch as my personal research work for exploration of Convolutional Neural Networks.  
