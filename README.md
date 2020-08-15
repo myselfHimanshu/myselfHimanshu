@@ -15,12 +15,3 @@ My areas of interest include <b>Natural Language Processing</b> and <b>Computer 
 
 #### Specialty
 Open to learning more.
-
-#### Contact Me
-
-<p>
-	<a href="https://github.com/myselfHimanshu"><img src="https://img.shields.io/github/followers/myselfHimanshu.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/047himanshu"><img src="https://img.shields.io/twitter/follow/047himanshu?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/047himanshu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<br/><a href="https://myselfhimanshu.github.io/">myselfHimanshu.github.io</a>
-</p>
